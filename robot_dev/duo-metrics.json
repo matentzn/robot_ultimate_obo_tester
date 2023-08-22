@@ -1,0 +1,52 @@
+{
+  "metrics": {
+    "abox_axiom_count": 0,
+    "abox_axiom_count_incl": 22,
+    "annotation_property_count": 18,
+    "annotation_property_count_incl": 77,
+    "axiom_count": 582,
+    "axiom_count_incl": 4041,
+    "class_count": 300,
+    "class_count_incl": 307,
+    "consistent": true,
+    "dataproperty_count": 0,
+    "dataproperty_count_incl": 4,
+    "datatypes_count": 3,
+    "datatypes_count_incl": 7,
+    "individual_count": 0,
+    "individual_count_incl": 20,
+    "logical_axiom_count": 303,
+    "logical_axiom_count_incl": 567,
+    "obj_property_count": 1,
+    "obj_property_count_incl": 54,
+    "ontology_anno_count": 3,
+    "ontology_iri": "http://purl.obolibrary.org/obo/duo.owl",
+    "ontology_version_iri": "http://purl.obolibrary.org/obo/duo/releases/2021-02-23/duo.owl",
+    "owl2": true,
+    "owl2_dl": false,
+    "owl2_el": false,
+    "owl2_ql": false,
+    "owl2_rl": false,
+    "rbox_axiom_count": 0,
+    "rbox_axiom_count_incl": 54,
+    "rdfs": false,
+    "rule_count": 0,
+    "rule_count_incl": 0,
+    "signature_entity_count": 469,
+    "signature_entity_count_incl": 469,
+    "tbox_axiom_count": 303,
+    "tbox_axiom_count_incl": 491,
+    "tboxrbox_axiom_count": 303,
+    "tboxrbox_axiom_count_incl": 545,
+    "unsatisfiable_class_count": 0,
+    "valid_imports": [
+      "http://purl.obolibrary.org/obo/iao.owl"
+    ],
+    "valid_imports_incl": [
+      "http://purl.obolibrary.org/obo/iao.owl"
+    ],
+    "owl2dl_profile_violation": {
+      "UseOfUndeclaredClass": 1
+    }
+  }
+}

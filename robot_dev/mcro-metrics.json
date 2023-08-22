@@ -1,0 +1,61 @@
+{
+  "metrics": {
+    "abox_axiom_count": 0,
+    "abox_axiom_count_incl": 24,
+    "annotation_property_count": 15,
+    "annotation_property_count_incl": 111,
+    "axiom_count": 338,
+    "axiom_count_incl": 8938,
+    "class_count": 59,
+    "class_count_incl": 938,
+    "consistent": true,
+    "dataproperty_count": 12,
+    "dataproperty_count_incl": 26,
+    "datatypes_count": 4,
+    "datatypes_count_incl": 9,
+    "individual_count": 3,
+    "individual_count_incl": 24,
+    "logical_axiom_count": 133,
+    "logical_axiom_count_incl": 2184,
+    "obj_property_count": 6,
+    "obj_property_count_incl": 145,
+    "ontology_anno_count": 9,
+    "ontology_iri": "http://purl.obolibrary.org/obo/mcro.owl",
+    "ontology_version_iri": "http://purl.obolibrary.org/obo/2023-03-07/mcro.owl",
+    "owl2": true,
+    "owl2_dl": false,
+    "owl2_el": false,
+    "owl2_ql": false,
+    "owl2_rl": false,
+    "rbox_axiom_count": 11,
+    "rbox_axiom_count_incl": 168,
+    "rdfs": false,
+    "rule_count": 0,
+    "rule_count_incl": 0,
+    "signature_entity_count": 1253,
+    "signature_entity_count_incl": 1253,
+    "tbox_axiom_count": 122,
+    "tbox_axiom_count_incl": 1992,
+    "tboxrbox_axiom_count": 133,
+    "tboxrbox_axiom_count_incl": 2160,
+    "unsatisfiable_class_count": 0,
+    "valid_imports": [
+      "https://raw.githubusercontent.com/UTHealth-Ontology/mcro/main/import/swo_import_final.owl",
+      "http://www.w3.org/ns/prov-o-20130430",
+      "http://purl.obolibrary.org/obo/iao.owl",
+      "http://www.w3.org/2004/02/skos/core"
+    ],
+    "valid_imports_incl": [
+      "https://raw.githubusercontent.com/UTHealth-Ontology/mcro/main/import/swo_import_final.owl",
+      "http://www.w3.org/ns/prov-o-20130430",
+      "http://purl.obolibrary.org/obo/iao.owl",
+      "http://www.w3.org/2004/02/skos/core"
+    ],
+    "owl2dl_profile_violation": {
+      "IllegalPunning": 13,
+      "UseOfReservedVocabularyForAnnotationPropertyIRI": 1,
+      "UseOfReservedVocabularyForClassIRI": 2,
+      "UseOfUndeclaredAnnotationProperty": 7
+    }
+  }
+}

@@ -1,0 +1,2 @@
+json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/mcro-metrics.json	robot_dev/mcro-metrics.json	owl2dl_profile_violation	{'IllegalPunning': 9, 'UseOfReservedVocabularyForClassIRI': 1, 'UseOfUndeclaredAnnotationProperty': 7}	{'IllegalPunning': 13, 'UseOfReservedVocabularyForAnnotationPropertyIRI': 1, 'UseOfReservedVocabularyForClassIRI': 2, 'UseOfUndeclaredAnnotationProperty': 7}	False

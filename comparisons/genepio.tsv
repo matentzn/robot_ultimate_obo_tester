@@ -1,0 +1,2 @@
+json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/genepio-metrics.json	robot_dev/genepio-metrics.json	owl2dl_profile_violation	{'UseOfUndeclaredClass': 65, 'UseOfReservedVocabularyForObjectPropertyIRI': 2, 'UseOfReservedVocabularyForAnnotationPropertyIRI': 2, 'UseOfUndeclaredAnnotationProperty': 19837}	{'UseOfUndeclaredClass': 65, 'UseOfReservedVocabularyForObjectPropertyIRI': 4, 'UseOfReservedVocabularyForAnnotationPropertyIRI': 3, 'UseOfUndeclaredAnnotationProperty': 19837}	False

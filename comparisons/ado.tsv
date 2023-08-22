@@ -1,0 +1,2 @@
+json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/ado-metrics.json	robot_dev/ado-metrics.json	owl2dl_profile_violation	{'UseOfReservedVocabularyForAnnotationPropertyIRI': 1}	{'UseOfReservedVocabularyForAnnotationPropertyIRI': 2}	False

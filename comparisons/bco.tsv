@@ -1,0 +1,2 @@
+json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/bco-metrics.json	robot_dev/bco-metrics.json	owl2dl_profile_violation	{'IllegalPunning': 21}	{'IllegalPunning': 25, 'UseOfReservedVocabularyForClassIRI': 1}	False

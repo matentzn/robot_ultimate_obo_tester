@@ -1,0 +1,52 @@
+{
+  "metrics": {
+    "abox_axiom_count": 0,
+    "abox_axiom_count_incl": 0,
+    "annotation_property_count": 18,
+    "annotation_property_count_incl": 22,
+    "axiom_count": 15142,
+    "axiom_count_incl": 16691,
+    "class_count": 1334,
+    "class_count_incl": 1334,
+    "consistent": true,
+    "dataproperty_count": 0,
+    "dataproperty_count_incl": 0,
+    "datatypes_count": 2,
+    "datatypes_count_incl": 4,
+    "individual_count": 0,
+    "individual_count_incl": 0,
+    "logical_axiom_count": 6814,
+    "logical_axiom_count_incl": 6814,
+    "obj_property_count": 4,
+    "obj_property_count_incl": 4,
+    "ontology_anno_count": 8,
+    "ontology_iri": "http://purl.obolibrary.org/obo/fobi.owl",
+    "ontology_version_iri": "http://purl.obolibrary.org/obo/fobi/fobi.owl",
+    "owl2": true,
+    "owl2_dl": true,
+    "owl2_el": false,
+    "owl2_ql": true,
+    "owl2_rl": false,
+    "rbox_axiom_count": 2,
+    "rbox_axiom_count_incl": 2,
+    "rdfs": false,
+    "rule_count": 0,
+    "rule_count_incl": 0,
+    "signature_entity_count": 1364,
+    "signature_entity_count_incl": 1364,
+    "tbox_axiom_count": 6812,
+    "tbox_axiom_count_incl": 6812,
+    "tboxrbox_axiom_count": 6814,
+    "tboxrbox_axiom_count_incl": 6814,
+    "unsatisfiable_class_count": 148,
+    "valid_imports": [
+      "http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl",
+      "http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"
+    ],
+    "valid_imports_incl": [
+      "http://purl.obolibrary.org/obo/fobi/imports/chebi_import.owl",
+      "http://purl.obolibrary.org/obo/fobi/imports/foodon_import.owl"
+    ],
+    "owl2dl_profile_violation": {}
+  }
+}

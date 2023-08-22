@@ -1,0 +1,2 @@
+json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/cheminf-metrics.json	robot_dev/cheminf-metrics.json	owl2dl_profile_violation	{'UseOfUndeclaredClass': 9, 'UseOfReservedVocabularyForObjectPropertyIRI': 2, 'UseOfReservedVocabularyForAnnotationPropertyIRI': 1, 'UseOfUndeclaredAnnotationProperty': 55}	{'UseOfUndeclaredClass': 9, 'IllegalPunning': 2, 'UseOfReservedVocabularyForObjectPropertyIRI': 3, 'UseOfReservedVocabularyForAnnotationPropertyIRI': 2, 'UseOfUndeclaredAnnotationProperty': 55}	False

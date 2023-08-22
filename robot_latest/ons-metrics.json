@@ -1,0 +1,53 @@
+{
+  "metrics": {
+    "abox_axiom_count": 191,
+    "abox_axiom_count_incl": 213,
+    "annotation_property_count": 113,
+    "annotation_property_count_incl": 144,
+    "axiom_count": 50476,
+    "axiom_count_incl": 92641,
+    "class_count": 3675,
+    "class_count_incl": 6056,
+    "consistent": true,
+    "dataproperty_count": 3,
+    "dataproperty_count_incl": 5,
+    "datatypes_count": 8,
+    "datatypes_count_incl": 16,
+    "individual_count": 111,
+    "individual_count_incl": 133,
+    "logical_axiom_count": 4759,
+    "logical_axiom_count_incl": 9253,
+    "obj_property_count": 74,
+    "obj_property_count_incl": 117,
+    "ontology_anno_count": 29,
+    "ontology_iri": "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/master/ons.owl",
+    "ontology_version_iri": "no.iri",
+    "owl2": true,
+    "owl2_dl": false,
+    "owl2_el": false,
+    "owl2_ql": false,
+    "owl2_rl": false,
+    "rbox_axiom_count": 63,
+    "rbox_axiom_count_incl": 114,
+    "rdfs": false,
+    "rule_count": 0,
+    "rule_count_incl": 0,
+    "signature_entity_count": 6471,
+    "signature_entity_count_incl": 6471,
+    "tbox_axiom_count": 4505,
+    "tbox_axiom_count_incl": 8926,
+    "tboxrbox_axiom_count": 4568,
+    "tboxrbox_axiom_count_incl": 9040,
+    "unsatisfiable_class_count": 0,
+    "valid_imports": [
+      "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/master/src/ontology/imports/ONS_import_01192022_noDeprec.owl"
+    ],
+    "valid_imports_incl": [
+      "https://raw.githubusercontent.com/enpadasi/Ontology-for-Nutritional-Studies/master/src/ontology/imports/ONS_import_01192022_noDeprec.owl"
+    ],
+    "owl2dl_profile_violation": {
+      "UseOfNonSimplePropertyInCardinalityRestriction": 1,
+      "InsufficientOperands": 8
+    }
+  }
+}
