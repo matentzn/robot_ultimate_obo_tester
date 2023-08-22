@@ -10,6 +10,7 @@ prepare:
 	echo "Comparing 1.9.4 with Snapshot release"
 	mkdir -p bin/robot_latest bin/robot_dev robot_dev/ robot_latest/ ontologies/
 	wget $(OBO_CONFIG) -O obo-config.yml
+	python scripts/active-ontologies.py > active-ontologies.txt
 	wget "https://github.com/ontodev/robot/raw/master/bin/robot" -O $(ROBOTLATEST)
 	wget "https://github.com/ontodev/robot/raw/master/bin/robot" -O $(ROBOTDEV)
 	chmod +x $(ROBOTLATEST) $(ROBOTDEV)
@@ -32,6 +33,8 @@ comparisons/%.tsv: robot_latest/%-metrics.json robot_dev/%-metrics.json
 	python scripts/compare-metrics.py $^ $@
 .PRECIOUS: comparisons/%.tsv
 
-ONTS=ro ddpheno cob aism
+#ONTS=ro ddpheno cob aism
+
+ONTS := $(shell awk '{printf "%s ", $$0}' active-ontologies.txt)
 
 all: $(foreach ont, $(ONTS), comparisons/$(ont).tsv)
