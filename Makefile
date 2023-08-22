@@ -15,7 +15,7 @@ prepare:
 	wget "https://github.com/ontodev/robot/raw/master/bin/robot" -O $(ROBOTDEV)
 	chmod +x $(ROBOTLATEST) $(ROBOTDEV)
 	wget "https://github.com/ontodev/robot/releases/download/v1.9.4/robot.jar" -O $(ROBOTLATEST).jar
-	wget "https://www.dropbox.com/scl/fi/5gtky9vdcmeni8lapz5lz/robot_110-3_snapshot.jar?rlkey=i3jnn2qqt58qnr8gjcwp79eux&dl=0" -O $(ROBOTDEV).jar
+	wget "https://www.dropbox.com/scl/fi/84umzz8kzgkq0y09acohz/robot_110-4.jar?rlkey=xe2v8ri4va627lesnwq61ssh5&dl=0" -O $(ROBOTDEV).jar
 
 ontologies/%.owl:
 	wget "http://purl.obolibrary.org/obo/$*.owl" -O $@

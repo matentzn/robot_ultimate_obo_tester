@@ -2,3 +2,4 @@
 ontologies/*
 bin/*
 obo-config.yml
+.DS_Store
