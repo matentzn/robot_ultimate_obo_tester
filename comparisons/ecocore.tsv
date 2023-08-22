@@ -1,1 +1,2 @@
 json_filename_1	json_filename_2	metric	value_1	value_2	value_same
+robot_latest/ecocore-metrics.json	robot_dev/ecocore-metrics.json	unsatisfiable_class_count	0	9	False

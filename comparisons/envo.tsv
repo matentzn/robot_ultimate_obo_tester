@@ -1,3 +1,3 @@
 json_filename_1	json_filename_2	metric	value_1	value_2	value_same
-robot_latest/envo-metrics.json	robot_dev/envo-metrics.json	owl2_dl	True	False	False
 robot_latest/envo-metrics.json	robot_dev/envo-metrics.json	owl2dl_profile_violation	{}	{'UseOfUnknownDatatype': 1}	False
+robot_latest/envo-metrics.json	robot_dev/envo-metrics.json	owl2_dl	True	False	False

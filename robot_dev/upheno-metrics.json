@@ -38,7 +38,7 @@
     "tbox_axiom_count_incl": 450743,
     "tboxrbox_axiom_count": 0,
     "tboxrbox_axiom_count_incl": 451378,
-    "unsatisfiable_class_count": 60521,
+    "unsatisfiable_class_count": 83201,
     "valid_imports": [
       "http://purl.obolibrary.org/obo/upheno/imports/fbbt_phenotype.owl",
       "http://purl.obolibrary.org/obo/upheno/upheno_root_alignments.owl",

@@ -38,7 +38,7 @@
     "tbox_axiom_count_incl": 2566,
     "tboxrbox_axiom_count": 97,
     "tboxrbox_axiom_count_incl": 2688,
-    "unsatisfiable_class_count": 21,
+    "unsatisfiable_class_count": 46,
     "valid_imports": [
       "http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl",
       "http://purl.obolibrary.org/obo/ro/core.owl",

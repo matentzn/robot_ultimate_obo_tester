@@ -38,7 +38,7 @@
     "tbox_axiom_count_incl": 2498,
     "tboxrbox_axiom_count": 491,
     "tboxrbox_axiom_count_incl": 3146,
-    "unsatisfiable_class_count": 21,
+    "unsatisfiable_class_count": 23,
     "valid_imports": [
       "http://purl.obolibrary.org/obo/ontoneo/import/fma_import.owl",
       "http://purl.obolibrary.org/obo/ontoneo/import/ogms_import.owl",

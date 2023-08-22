@@ -38,7 +38,7 @@
     "tbox_axiom_count_incl": 1225,
     "tboxrbox_axiom_count": 1233,
     "tboxrbox_axiom_count_incl": 1233,
-    "unsatisfiable_class_count": 21,
+    "unsatisfiable_class_count": 28,
     "valid_imports": [],
     "valid_imports_incl": [],
     "owl2dl_profile_violation": {}
